@@ -1,0 +1,20 @@
+Source: 10.10.163.138 | Destination: 20.42.73.31 | Protocol: TCP
+Source: 10.10.163.138 | Destination: 20.42.73.31 | Protocol: TCP
+Source: 10.10.163.138 | Destination: 20.42.73.31 | Protocol: TCP
+Source: 10.10.163.138 | Destination: 20.42.73.31 | Protocol: TCP
+Source: 10.10.163.138 | Destination: 20.42.73.31 | Protocol: TCP
+Source: 10.10.163.138 | Destination: 20.42.73.31 | Protocol: TCP
+Source: 10.10.163.138 | Destination: 20.42.73.31 | Protocol: TCP
+Source: 20.42.73.31 | Destination: 10.10.163.138 | Protocol: TCP
+Source: 20.42.73.31 | Destination: 10.10.163.138 | Protocol: TCP
+Source: 20.42.73.31 | Destination: 10.10.163.138 | Protocol: TCP
+[2026-04-22 12:44:24] Source 10.10.163.138 -> 172.64.146.215 | Protocol: TCP
+[2026-04-22 12:44:24] Source 10.10.163.138 -> 172.64.146.215 | Protocol: TCP
+[2026-04-22 12:44:24] Source 10.10.163.138 -> 172.64.146.215 | Protocol: TCP
+[2026-04-22 12:44:24] Source 10.10.163.138 -> 172.64.146.215 | Protocol: TCP
+[2026-04-22 12:44:24] Source 10.10.163.138 -> 172.64.146.215 | Protocol: TCP
+[2026-04-22 12:44:24] Source 10.10.163.138 -> 172.64.146.215 | Protocol: TCP
+[2026-04-22 12:44:24] Source 10.10.163.138 -> 172.64.146.215 | Protocol: TCP
+[2026-04-22 12:44:24] Source 10.10.163.138 -> 172.64.146.215 | Protocol: TCP
+[2026-04-22 12:44:24] Source 10.10.163.138 -> 172.64.146.215 | Protocol: TCP
+[2026-04-22 12:44:24] Source 10.10.163.138 -> 172.64.146.215 | Protocol: TCP
